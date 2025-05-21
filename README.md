@@ -17,8 +17,7 @@ A research project analyzing how artificial intelligence enhances threat detecti
 [Download Full Project Report]([AI-in-Threat-Detection-Cybersecurity_KND_IT23222854.pdf](https://github.com/user-attachments/files/20360215/AI-in-Threat-Detection-Cybersecurity_KND_IT23222854.pdf))
 
 ## Author
-JAYASINGHE B. I (IT23222854), SLIIT Kandy Uni
-
+JAYASINGHE B. I  
 ## References
 
 1. IRJMETS. (2024). AI-Driven Threat Detection in Cybersecurity. *International Research Journal of Modernization in Engineering, Technology and Science, 6*(11). [Link](https://www.irjmets.com/uploadedfiles/paper/issue_11_november_2024/38223/final/fin_irjmets1716044548.pdf)
