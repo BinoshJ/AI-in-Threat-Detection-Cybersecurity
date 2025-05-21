@@ -17,7 +17,7 @@ A research project analyzing how artificial intelligence enhances threat detecti
 [Download Full Project Report]([AI-in-Threat-Detection-Cybersecurity_KND_IT23222854.pdf](https://github.com/user-attachments/files/20360215/AI-in-Threat-Detection-Cybersecurity_KND_IT23222854.pdf))
 
 ## Author
-JAYASINGHE B. I (IT23222854), SLIIT Kandy
+JAYASINGHE B. I (IT23222854), SLIIT Kandy Uni
 
 ## References
 
